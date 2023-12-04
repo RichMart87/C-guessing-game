@@ -13,3 +13,18 @@ C:\Users\Rich\Desktop\C# Projects\Guessing Game in C#\Guessing Game in C#\obj\De
 C:\Users\Rich\Desktop\C# Projects\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.pdb
 C:\Users\Rich\Desktop\C# Projects\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.genruntimeconfig.cache
 C:\Users\Rich\Desktop\C# Projects\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\ref\Guessing Game in C#.dll
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\bin\Debug\net6.0\Guessing Game in C#.exe
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\bin\Debug\net6.0\Guessing Game in C#.deps.json
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\bin\Debug\net6.0\Guessing Game in C#.runtimeconfig.json
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\bin\Debug\net6.0\Guessing Game in C#.dll
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\bin\Debug\net6.0\Guessing Game in C#.pdb
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.AssemblyInfoInputs.cache
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.AssemblyInfo.cs
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.csproj.CoreCompileInputs.cache
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.sourcelink.json
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.dll
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\refint\Guessing Game in C#.dll
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.pdb
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\Guessing Game in C#.genruntimeconfig.cache
+C:\Users\richm\Source\Repos\C-guessing-game\Guessing Game in C#\Guessing Game in C#\obj\Debug\net6.0\ref\Guessing Game in C#.dll
